@@ -54,6 +54,7 @@ namespace poker
 
                 // 승자를 가린다.
                 Player winner = FindWinner(players);
+                
 
                 winner.Money += bettingMoney;
 
@@ -84,17 +85,27 @@ namespace poker
             int score0 = players[0].SumAllNumbers();
             int score1 = players[1].SumAllNumbers();
 
-            if (score0==21)
+            if (score0 == 21)
+            {
+                Console.WriteLine("Player 1 won");
                 return players[0];
-            else if(score1==21)
+            }
+            else if (score1 == 21)
+            {
+                Console.WriteLine("Player 2 won");
                 return players[1];
+                
+            }
+                
             else if (score0 > score1 && score0<21 && score1<21)
             {
+                Console.WriteLine("Player 1 won");
                 return players[0];
             }
 
             else //(score0 < score1 && score0<21 && score1<21)
             {
+                Console.WriteLine("Player 2 won");
                 return players[1];
             }
         }
