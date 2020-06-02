@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZGTr0zn84Olv9r8Y1FYjIryf0kG/0xCNfR4heHBwEsJzVel6Nsy0F5ZMJ0vQvjFEaipRmf18tfQvoVD8+kdzug==",
+  "success": true,
+  "projectFilePath": "C:\\t\\helloworld\\poker\\poker\\poker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kccistc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
