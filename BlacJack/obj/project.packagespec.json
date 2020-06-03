@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\t\\helloworld\\poker\\poker\\poker.csproj",
-    "projectName": "poker",
-    "projectPath": "C:\\t\\helloworld\\poker\\poker\\poker.csproj",
-    "outputPath": "C:\\t\\helloworld\\poker\\poker\\obj\\",
+    "projectUniqueName": "C:\\t\\helloworld\\Black_Jack_Game\\BlacJack\\BlacJack.csproj",
+    "projectName": "BlacJack",
+    "projectPath": "C:\\t\\helloworld\\Black_Jack_Game\\BlacJack\\BlacJack.csproj",
+    "outputPath": "C:\\t\\helloworld\\Black_Jack_Game\\BlacJack\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

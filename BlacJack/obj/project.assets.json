@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\t\\helloworld\\poker\\poker\\poker.csproj",
-      "projectName": "poker",
-      "projectPath": "C:\\t\\helloworld\\poker\\poker\\poker.csproj",
+      "projectUniqueName": "C:\\t\\helloworld\\Black_Jack_Game\\BlacJack\\BlacJack.csproj",
+      "projectName": "BlacJack",
+      "projectPath": "C:\\t\\helloworld\\Black_Jack_Game\\BlacJack\\BlacJack.csproj",
       "packagesPath": "C:\\Users\\kccistc\\.nuget\\packages\\",
-      "outputPath": "C:\\t\\helloworld\\poker\\poker\\obj\\",
+      "outputPath": "C:\\t\\helloworld\\Black_Jack_Game\\BlacJack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kccistc\\AppData\\Roaming\\NuGet\\NuGet.Config",

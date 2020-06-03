@@ -11,7 +11,7 @@ namespace poker
             Player p2 = new Player(1000);
 
             List<Player> players = new List<Player>();
-            List<Card> Cards = new List<Card>();
+            
             players.Add(p1);
             players.Add(p2);
 

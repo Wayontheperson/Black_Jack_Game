@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\t\\helloworld\\poker\\poker\\poker.csproj": {}
+    "C:\\t\\helloworld\\Black_Jack_Game\\poker\\poker.csproj": {}
   },
   "projects": {
-    "C:\\t\\helloworld\\poker\\poker\\poker.csproj": {
+    "C:\\t\\helloworld\\Black_Jack_Game\\poker\\poker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\t\\helloworld\\poker\\poker\\poker.csproj",
+        "projectUniqueName": "C:\\t\\helloworld\\Black_Jack_Game\\poker\\poker.csproj",
         "projectName": "poker",
-        "projectPath": "C:\\t\\helloworld\\poker\\poker\\poker.csproj",
+        "projectPath": "C:\\t\\helloworld\\Black_Jack_Game\\poker\\poker.csproj",
         "packagesPath": "C:\\Users\\kccistc\\.nuget\\packages\\",
-        "outputPath": "C:\\t\\helloworld\\poker\\poker\\obj\\",
+        "outputPath": "C:\\t\\helloworld\\Black_Jack_Game\\poker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kccistc\\AppData\\Roaming\\NuGet\\NuGet.Config",
